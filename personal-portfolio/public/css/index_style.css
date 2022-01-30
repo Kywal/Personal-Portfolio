@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    background-color: #38e4ae;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.area_login {
+    border-radius: 4px;
+    width: 250px;
+    height: 320px;
+}
+
+#area_externa{
+    background-color: #343E3D;
+}
+
