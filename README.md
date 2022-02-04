@@ -1,5 +1,5 @@
 ### Personal Portfolio 💻🚀
-Repositório do aplicação web "Portfólio Pessoal".
+Repositório da aplicação web "Portfólio Pessoal".
 
 - Ferramentas utilizadas: 🧰
   - [x] HTML;

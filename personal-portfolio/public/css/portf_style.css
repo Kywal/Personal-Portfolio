@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    background-color: #00B4D8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mn-geral {
+    width: 98%;
+    height: 95%;
+    border-radius: 10px;
+    background-color: #00061a;
+}
